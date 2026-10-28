@@ -1,1 +1,40 @@
-# vscode-notes
+# vscode-extensions
+
+- `Prettier - Code formatter` by Prettier
+- `Auto Rename Tag` by Jun Han
+- `Highlight Matching Tag` by vincaslt
+- `Multiple cursor case preserve` by Cardinal90
+- `ESLint` by Microsoft
+- `ES7+ React/Redux/React-Native snippets` by dsznajder
+- `Better Comments` by Aaron Bond
+- `Python` by Microsoft
+- `Python Environments` by Microsoft
+- `Pylance` by Microsoft
+- `Python Debugger` by Microsoft
+- `Django` by Baptiste Darthenay
+- `djLint` by monosans
+- `WSL` by Microsoft
+- `vscode-pdf` by tomoki1207
+- `Markdown PDF` by yzane
+- `Cline` by Cline
+- `Docker` by Microsoft
+- `Container Tools` by Microsoft
+- `Expo` Tools by Expo
+- `GitHub Actions` by GitHub
+- `GitHub Markdown Preview` by Matt Bierner
+- `indent-rainbow` by oderwat
+- `Live Server` by Ritwick Dey
+- `Markdown All in One` by Yu Zhang
+- `Markdown Alert` by kejun
+- `Markdown Checkboxes` by Matt Bierner
+- `Markdown Emoji` by Matt Bierner
+- `Markdown Footnotes` by Matt Bierner
+- `Markdown Preview Github Styling` by Matt Bierner
+- `MongoDB for VS Code` by MongoDB
+- `Prisma` by Prisma
+- `Stripe` by Stripe
+- `Tailwind CSS IntelliSense` by Tailwind Labs
+- `Task Kill` by Shynet
+- `Template String Converter` by meganrogge
+- `vscode-styled-components` by Styled Components
+- `YAML` by Red Hat
